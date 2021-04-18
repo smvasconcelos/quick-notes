@@ -15,7 +15,7 @@
 
 ## Sobre
 
-O aplicativo é um modelo simples com uma única funcionalidade : guardar anotações de forma rápida e pratica. Nele você pode salvar informçãoes e pesquisar os titulos delas caso faça mais do que consegue se lembar.
+O aplicativo é um modelo simples com uma única funcionalidade : guardar anotações de forma rápida e prática. Nele você pode salvar informaçóes e pesquisar os seus titulos caso se perca em suas anotações.
 
 
 ## Motivações
