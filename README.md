@@ -8,7 +8,7 @@
 ![Versão do React Native](https://img.shields.io/badge/React%20Version-64.0-blue)
 
 
-<img src="./doc/img/Quick%20Notes%20Gif.gif" width="150" height="300"/>
+<img src="./doc/img/Quick%20Notes%20Gif.gif" width="200" height="430"/>
 
 </div>
 
