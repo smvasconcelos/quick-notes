@@ -15,19 +15,13 @@
 
 ## Sobre
 
----
-
 O aplicativo é um modelo simples com uma única funcionalidade : guardar anotações de forma rápida e pratica. Nele você pode salvar informçãoes e pesquisar os titulos delas caso faça mais do que consegue se lembar.
 
 
 ## Motivações
 
----
-
 Sempre me senti na necessidade de ter algo simples e rápido para guardar informações que fossem faceis de acessadas a qualquer momento.
 
 ## O Processo
-
----
 
 Como foi um projeto simples, só foram utilizados dois dias para completa-lo. Ele teve como proposito mostrar bem brevemente como utilizar o React Native e um banco de dados local.
